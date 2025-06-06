@@ -35,8 +35,7 @@ USER_NAME = "jgdong"         # 用户名
 UUID = "83eb4761-5dd9-4831-ab32-4b3baff8240e"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "stream.jgdong.ggff.net"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiNGVkNDIxOTc1OTM5OTM5NTQxMTljODQ0ZjVjMThmOTYiLCJ0IjoiNTMzOTY1YWEtNDNmZS00YWQ4LThmMDgtZDIxNDc2ZDk1ODU5IiwicyI6Ik9UZG1ZakExWWpFdE5ESTVPQzAwTWpJMUxXSmhZakF0WWpnM1pqZzNaamN4WTJNMyJ9
-"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiNGVkNDIxOTc1OTM5OTM5NTQxMTljODQ0ZjVjMThmOTYiLCJ0IjoiNTMzOTY1YWEtNDNmZS00YWQ4LThmMDgtZDIxNDc2ZDk1ODU5IiwicyI6IlpqZ3lNMkl5T1dVdFltSm1PQzAwTkRJMExUZzNNamt0WW1FMk1HVXhZVGM0WW1KaSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
